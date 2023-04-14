@@ -47,6 +47,9 @@ TagManager:
   - name: Apple
     uniqueID: 1126622155
     locked: 0
+  - name: Enemy
+    uniqueID: 2883771535
+    locked: 0
   - name: Player
     uniqueID: 4124762885
     locked: 0
